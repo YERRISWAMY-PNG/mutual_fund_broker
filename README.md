@@ -29,7 +29,7 @@ A Django backend application for a mutual fund brokerage platform with RapidAPI 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mutual_fund_broker.git
+   git clone https://github.com/YERRISWAMY-PNG/mutual_fund_broker.git
    cd mutual_fund_broker
    
 ### Postman Collection:
